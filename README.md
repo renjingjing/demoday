@@ -1,2 +1,2 @@
 # demoday
-Thid project is for demoday.
+This project is for demoday.
